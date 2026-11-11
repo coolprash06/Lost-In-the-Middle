@@ -1,0 +1,78 @@
+{
+  "model": "allam-2-7b",
+  "N": 50,
+  "T": 1,
+  "timestamp": "2026-11-11_17-08-27",
+  "results": [
+    {
+      "position": "First",
+      "index": 0,
+      "correct": 0,
+      "trials": 1,
+      "accuracy": 0.0,
+      "empty_responses": 0,
+      "answers": [
+        {
+          "answer": "8b6d-0000-401f-b017-7b1869adc81c\"}",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "position": "25%",
+      "index": 12,
+      "correct": 0,
+      "trials": 1,
+      "accuracy": 0.0,
+      "empty_responses": 0,
+      "answers": [
+        {
+          "answer": "2018-48a3-43c7-b487-a720bbc11f39",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "position": "Middle",
+      "index": 24,
+      "correct": 0,
+      "trials": 1,
+      "accuracy": 0.0,
+      "empty_responses": 0,
+      "answers": [
+        {
+          "answer": "10a8c-980f-42af-990f-c84a3ba7f427\"}",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "position": "75%",
+      "index": 37,
+      "correct": 0,
+      "trials": 1,
+      "accuracy": 0.0,
+      "empty_responses": 0,
+      "answers": [
+        {
+          "answer": "000000000000000000000000000000000000000000000000000000000000000",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "position": "Last",
+      "index": 49,
+      "correct": 0,
+      "trials": 1,
+      "accuracy": 0.0,
+      "empty_responses": 0,
+      "answers": [
+        {
+          "answer": "19c9-4007-48ff-c9f9abf1e6b2\"}",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

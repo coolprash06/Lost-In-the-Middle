@@ -1,0 +1,100 @@
+{
+  "model": "qwen/qwen3.8-27b",
+  "N": 100,
+  "T": 1,
+  "hard_mode": true,
+  "lookalikes": 10,
+  "timestamp": "2026-11-11_17-24-09",
+  "results": [
+    {
+      "position": "First",
+      "index": 0,
+      "correct": 1,
+      "trials": 1,
+      "accuracy": 100.0,
+      "empty_responses": 0,
+      "fooled_by_lookalike": 0,
+      "answers": [
+        {
+          "target_key": "f9255f1d-9bb6-4a8e-b369-97015a31edf9",
+          "expected": "69a860fd-2f6b-427e-90ad-3ad9b3305eca",
+          "answer": "69a860fd-2f6b-427e-90ad-3ad9b3305eca",
+          "correct": true,
+          "fooled_by_lookalike": false
+        }
+      ]
+    },
+    {
+      "position": "25%",
+      "index": 25,
+      "correct": 1,
+      "trials": 1,
+      "accuracy": 100.0,
+      "empty_responses": 0,
+      "fooled_by_lookalike": 0,
+      "answers": [
+        {
+          "target_key": "4e3780f1-40cd-4501-a3ea-71efb57260cf",
+          "expected": "dd99c800-17db-4a84-bf29-71312fdea635",
+          "answer": "dd99c800-17db-4a84-bf29-71312fdea635",
+          "correct": true,
+          "fooled_by_lookalike": false
+        }
+      ]
+    },
+    {
+      "position": "Middle",
+      "index": 50,
+      "correct": 1,
+      "trials": 1,
+      "accuracy": 100.0,
+      "empty_responses": 0,
+      "fooled_by_lookalike": 0,
+      "answers": [
+        {
+          "target_key": "0db5be34-799c-4767-ae62-9ecb69038190",
+          "expected": "6c8d77b3-ba84-4de7-a95a-7c9ff9b435e3",
+          "answer": "6c8d77b3-ba84-4de7-a95a-7c9ff9b435e3",
+          "correct": true,
+          "fooled_by_lookalike": false
+        }
+      ]
+    },
+    {
+      "position": "75%",
+      "index": 74,
+      "correct": 1,
+      "trials": 1,
+      "accuracy": 100.0,
+      "empty_responses": 0,
+      "fooled_by_lookalike": 0,
+      "answers": [
+        {
+          "target_key": "fae31d7b-ba9f-48c9-946f-1f05d38253a3",
+          "expected": "ecf2da3e-a907-4461-96c8-97ed3b4a07c3",
+          "answer": "ecf2da3e-a907-4461-96c8-97ed3b4a07c3",
+          "correct": true,
+          "fooled_by_lookalike": false
+        }
+      ]
+    },
+    {
+      "position": "Last",
+      "index": 99,
+      "correct": 1,
+      "trials": 1,
+      "accuracy": 100.0,
+      "empty_responses": 0,
+      "fooled_by_lookalike": 0,
+      "answers": [
+        {
+          "target_key": "d6db4171-4fee-4fbd-8a49-7fde4b34eb51",
+          "expected": "5ec9c059-fb2f-4726-b292-4c95fe62738d",
+          "answer": "5ec9c059-fb2f-4726-b292-4c95fe62738d",
+          "correct": true,
+          "fooled_by_lookalike": false
+        }
+      ]
+    }
+  ]
+}

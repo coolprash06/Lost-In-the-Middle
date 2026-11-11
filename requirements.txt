@@ -1,0 +1,4 @@
+streamlit>=1.32
+groq>=0.9
+python-dotenv>=1.0
+plotly>=5.18

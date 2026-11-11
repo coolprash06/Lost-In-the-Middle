@@ -1,0 +1,88 @@
+{
+  "model": "qwen/qwen3.8-27b",
+  "N": 100,
+  "T": 1,
+  "timestamp": "2026-11-11_17-16-31",
+  "results": [
+    {
+      "position": "First",
+      "index": 0,
+      "correct": 1,
+      "trials": 1,
+      "accuracy": 100.0,
+      "empty_responses": 0,
+      "answers": [
+        {
+          "target_key": "f1f4f101-7158-41cf-84ba-553528994970",
+          "expected": "bb880b68-697b-4f4f-bc1e-f3a976247116",
+          "answer": "bb880b68-697b-4f4f-bc1e-f3a976247116",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "position": "25%",
+      "index": 25,
+      "correct": 1,
+      "trials": 1,
+      "accuracy": 100.0,
+      "empty_responses": 0,
+      "answers": [
+        {
+          "target_key": "79601973-b5a6-4999-b881-f49f96e29730",
+          "expected": "aaf62741-6eb9-43cb-aad2-b61a06ad7c08",
+          "answer": "aaf62741-6eb9-43cb-aad2-b61a06ad7c08",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "position": "Middle",
+      "index": 50,
+      "correct": 1,
+      "trials": 1,
+      "accuracy": 100.0,
+      "empty_responses": 0,
+      "answers": [
+        {
+          "target_key": "821088b4-e6d8-4eed-9b67-80d01e1463ff",
+          "expected": "440bdf1c-ebad-4c5c-a4d3-b9d7019302c5",
+          "answer": "440bdf1c-ebad-4c5c-a4d3-b9d7019302c5",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "position": "75%",
+      "index": 74,
+      "correct": 1,
+      "trials": 1,
+      "accuracy": 100.0,
+      "empty_responses": 0,
+      "answers": [
+        {
+          "target_key": "4bf11c08-d65f-4aa1-b4ba-236b0a3bb343",
+          "expected": "5f62aa8a-1612-4fd9-9731-ff45131b58f0",
+          "answer": "5f62aa8a-1612-4fd9-9731-ff45131b58f0",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "position": "Last",
+      "index": 99,
+      "correct": 1,
+      "trials": 1,
+      "accuracy": 100.0,
+      "empty_responses": 0,
+      "answers": [
+        {
+          "target_key": "00d0f15e-277a-49b4-b489-76cd5cf7fbd5",
+          "expected": "750a3973-bfa5-4184-9229-8617de1c3e26",
+          "answer": "750a3973-bfa5-4184-9229-8617de1c3e26",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "model": "openai/gpt-oss-20b",
+  "N": 75,
+  "T": 1,
+  "timestamp": "2026-11-11_15-28-54",
+  "results": [
+    {
+      "position": "First",
+      "index": 0,
+      "correct": 1,
+      "trials": 1,
+      "accuracy": 100.0,
+      "empty_responses": 0,
+      "answers": [
+        {
+          "answer": "7a5f3302-b764-488b-8d48-09980aeccb69",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "position": "25%",
+      "index": 18,
+      "correct": 1,
+      "trials": 1,
+      "accuracy": 100.0,
+      "empty_responses": 0,
+      "answers": [
+        {
+          "answer": "f336a4e2-3d2e-405e-b6ba-f27108577968",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "position": "Middle",
+      "index": 37,
+      "correct": 1,
+      "trials": 1,
+      "accuracy": 100.0,
+      "empty_responses": 0,
+      "answers": [
+        {
+          "answer": "6d6604ff-f48a-49a7-bda3-4d6f104d939d",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "position": "75%",
+      "index": 56,
+      "correct": 1,
+      "trials": 1,
+      "accuracy": 100.0,
+      "empty_responses": 0,
+      "answers": [
+        {
+          "answer": "2dab5102-74d7-42a1-a6c6-98897c898de5",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "position": "Last",
+      "index": 74,
+      "correct": 1,
+      "trials": 1,
+      "accuracy": 100.0,
+      "empty_responses": 0,
+      "answers": [
+        {
+          "answer": "5ad8e49a-c366-4fff-a369-065bb730666b",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}
